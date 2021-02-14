@@ -16,3 +16,4 @@ You can either use gmail SMTP details from the link below or use third party ema
 - Gmail SMTP: https://support.google.com/a/answer/176600?hl=en#zippy=%2Cuse-the-gmail-smtp-server > Use the Gmail SMTP server
 - Hosting provider's SMTP: Ask them the details
 - Third Party SMTP: Check this as an example - https://www.wpbeginner.com/showcase/best-smtp-service-providers-with-high-email-deliverability/
+- You can check out the sample at - https://sachinartani.com
